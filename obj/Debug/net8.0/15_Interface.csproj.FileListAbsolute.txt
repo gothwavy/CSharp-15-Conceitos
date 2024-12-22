@@ -1,0 +1,14 @@
+E:\CSharp\POO\15_Interface\bin\Debug\net8.0\15_Interface.exe
+E:\CSharp\POO\15_Interface\bin\Debug\net8.0\15_Interface.deps.json
+E:\CSharp\POO\15_Interface\bin\Debug\net8.0\15_Interface.runtimeconfig.json
+E:\CSharp\POO\15_Interface\bin\Debug\net8.0\15_Interface.dll
+E:\CSharp\POO\15_Interface\bin\Debug\net8.0\15_Interface.pdb
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.AssemblyInfoInputs.cache
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.AssemblyInfo.cs
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.dll
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\refint\15_Interface.dll
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.pdb
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\15_Interface.genruntimeconfig.cache
+E:\CSharp\POO\15_Interface\obj\Debug\net8.0\ref\15_Interface.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharp\\POO\\15_Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|e:\\csharp\\poo\\15_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|e:\\csharp\\poo\\15_interface\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|e:\\csharp\\poo\\15_interface\\icalculadoraavancada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|solutionrelative:icalculadoraavancada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|e:\\csharp\\poo\\15_interface\\icalculadorabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D3098C-A99F-4CDC-9F2E-7018135DC5ED}|15_Interface.csproj|solutionrelative:icalculadorabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculadoraBase.cs",
+              "DocumentMoniker": "E:\\CSharp\\POO\\15_Interface\\ICalculadoraBase.cs",
+              "RelativeDocumentMoniker": "ICalculadoraBase.cs",
+              "ToolTip": "E:\\CSharp\\POO\\15_Interface\\ICalculadoraBase.cs",
+              "RelativeToolTip": "ICalculadoraBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:16:30.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculadoraAvancada.cs",
+              "DocumentMoniker": "E:\\CSharp\\POO\\15_Interface\\ICalculadoraAvancada.cs",
+              "RelativeDocumentMoniker": "ICalculadoraAvancada.cs",
+              "ToolTip": "E:\\CSharp\\POO\\15_Interface\\ICalculadoraAvancada.cs",
+              "RelativeToolTip": "ICalculadoraAvancada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:19:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "E:\\CSharp\\POO\\15_Interface\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "E:\\CSharp\\POO\\15_Interface\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:17:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSharp\\POO\\15_Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CSharp\\POO\\15_Interface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:13:24.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
